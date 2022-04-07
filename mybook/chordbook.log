@@ -1,0 +1,438 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.31)  8 APR 2022 01:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**chordbook.tex
+(./chordbook.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen135
+\Hy@linkcounter=\count175
+\Hy@pagecounter=\count176
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count177
+\pdfmajorversion=\count178
+Package hyperref Info: Option `bookmarks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count179
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen136
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count180
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count181
+\c@Item=\count182
+\c@Hfootnote=\count183
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count184
+\c@bookmark@seq@number=\count185
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+(./songs.sty
+Package: songs 2017/06/05 v3.0 Songs package
+\SB@dimen=\dimen139
+\SB@dimenii=\dimen140
+\SB@dimeniii=\dimen141
+\SB@dimeniv=\dimen142
+\SB@box=\box45
+\SB@boxii=\box46
+\SB@boxiii=\box47
+\SB@toks=\toks15
+\SB@cnt=\count186
+\SB@cntii=\count187
+\SB@skip=\skip50
+\SB@envbox=\box48
+\c@songnum=\count188
+\c@versenum=\count189
+\versesep=\skip51
+\afterpreludeskip=\skip52
+\beforepostludeskip=\skip53
+\baselineadj=\skip54
+\idxheadwidth=\skip55
+\songnumwidth=\skip56
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
+39.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+\versenumwidth=\skip57
+\cbarwidth=\skip58
+\sbarheight=\skip59
+\vvpenalty=\count190
+\ccpenalty=\count191
+\vcpenalty=\count192
+\cvpenalty=\count193
+\brkpenalty=\count194
+\spenalty=\count195
+\minfrets=\count196
+\SB@colwidth=\dimen143
+\SB@songbox=\box49
+\SB@numcols=\count197
+\SB@colnum=\count198
+\SB@colbox=\box50
+\SB@pgbox=\box51
+\SB@mrkbox=\box52
+\SB@groupcnt=\count199
+\SB@titlelist=\toks16
+\SB@titletail=\toks17
+\SB@parindent=\dimen144
+\SB@chorusbox=\box53
+\SB@cmarkclass=\marks1
+\SB@nocmarkclass=\marks2
+\SB@grouplvl=\count266
+\SB@transposefactor=\count267
+\SB@lyric=\toks18
+\SB@numhyps=\count268
+\SB@lyricnohyp=\toks19
+\SB@lyricbox=\box54
+\SB@chordbox=\box55
+\SB@cr@=\toks20
+\SB@ctail=\toks21
+\SB@fretwidth=\skip60
+\SB@tabindent=\dimen145
+\c@SB@songsnum=\count269
+\SB@songwrites=\box56
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3706.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3706.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3706.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3706.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)))
+\SB@out=\write3
+\openout3 = `chordbook.sxc'.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count270
+\l__pdf_internal_box=\box57
+)
+(./chordbook.aux)
+\openout1 = `chordbook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 51.
+LaTeX Font Info:    ... okay on input line 51.
+\AtBeginShipoutBox=\box58
+Package hyperref Info: Link coloring OFF on input line 51.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count271
+)
+LaTeX Info: Redefining \ref on input line 51.
+LaTeX Info: Redefining \pageref on input line 51.
+LaTeX Info: Redefining \nameref on input line 51.
+
+(./chordbook.out) (./chordbook.out)
+\@outlinefile=\write4
+\openout4 = `chordbook.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count272
+\scratchdimen=\dimen146
+\scratchbox=\box59
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen147
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks23
+) (./cbtitle.sbx) (./cbtitle.sbx) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] (./songs.sbd (./Songs/
+Panie chwale imie Twe.sbd)
+(./Songs/Nie boj sie.sbd) (./Songs/Jestes krolem.sbd [3
+
+])
+(./Songs/Prawda jedyna.sbd) (./Songs/Pan wywyzszony.sbd [4])
+(./Songs/W kazdym dniu.sbd) (./Songs/Chwale Ciebie Panie.sbd [5])
+(./Songs/On jest moim zyciem.sbd) (./Songs/Dziekowac Ci Panie chce.sbd)
+(./Songs/Wszystko Panie Ciebie chwali.sbd [6]) (./Songs/Moj Jezu moj Zbawco.sbd
+) (./Songs/Jezus zmartwychwstal.sbd [7]) (./Songs/Twe drogi sa najlepsze.sbd)
+(./Songs/Ty jestes skala zbawienia mego.sbd [8]) (./Songs/Oczysc serce me.sbd)
+(./Songs/Otworz oczy duszy mej Panie.sbd [9])
+(./Songs/Chrystus jest zyciem mym.sbd) (./Songs/W Chrystusie mym.sbd [10]
+\SB@cr@verse=\toks24
+\SB@cr@chorus=\toks25
+
+[11]) (./Songs/Tobie chor aniolow.sbd)
+(./Songs/Jezu Tys wszystkim dla mnie jest.sbd)
+(./Songs/Jestesmy Panie kaplanstwem Twym.sbd [12]) (./Songs/Nie szczyce sie.sbd
+[13]) (./Songs/Ty jestes Bogiem mym.sbd) (./Songs/Bylem kiedys sam.sbd [14])
+(./Songs/Chodz to czas by wielbic Pana.sbd)
+(./Songs/Jezus najwyzszej godzien chwaly.sbd [15])
+(./Songs/Bog dal mi zycie nowe.sbd [16]) (./Songs/Chce mocy.sbd [17])
+(./Songs/W cieniu Twoich rak.sbd [18]) (./Songs/Chcemy Ciebie wielbic.sbd)
+(./Songs/Panie nasz i Stworco.sbd [19]) (./Songs/Boze Ojcze nie wiem.sbd
+[20]) (./Songs/Hosanna.sbd) (./Songs/Zaspiewac chce milosci piesn.sbd [21])
+(./Songs/Przyjaciela mam.sbd) (./Songs/Glosno do Pana wolam.sbd [22])
+(./Songs/Ziemia ktora nam dajesz.sbd [23]) (./Songs/Pan mnie strzeze.sbd)
+(./Songs/My ktorzy wszystko liczymy.sbd [24])
+(./Songs/Tak tak tak o Panie moj.sbd [25] [26])
+(./Songs/Tys jak skala Tys jak wzgorze.sbd) (./Songs/Mow do mnie Panie.sbd)
+(./Songs/Niechaj zstapi Duch Twoj.sbd [27]) (./Songs/Tys jak powietrza wiew.sbd
+) (./Songs/Tam na krzyzu.sbd [28]) (./Songs/Pamietamy jak mowiles nam.sbd)
+(./Songs/Przed Tronem laski staje.sbd [29])
+(./Songs/Zabierz Panie mnie do miejsca.sbd)
+(./Songs/Godzien o godzien jest Bog.sbd [30])
+(./Songs/Uwielbiam Imie Twoje Panie.sbd [31])
+(./Songs/Swiatlo niesc tam gdzie ciemnosc trwa.sbd)
+(./Songs/Pan jest pasterzem moim.sbd [32]) (./Songs/Jesli na piasku.sbd)
+(./Songs/Bo nikt nie ma z nas.sbd [33]) (./Songs/Ojcze swiatla.sbd)
+(./Songs/Milosc da.sbd [34]) (./Songs/Smialym badz meznym badz.sbd)
+(./Songs/Chwalmy go Pan w majestacie Swym.sbd [35])
+(./Songs/Pan dla nas ma plan.sbd) (./Songs/Przyszedl bezbronny na swiat.sbd
+[36]) (./Songs/Nie mam nic co by mozna.sbd)
+(./Songs/Panie pragne kochac Cie.sbd [37]) (./Songs/Nie ma problemu by On.sbd)
+(./Songs/Gdy wokolo straszna burza.sbd [38])
+(./Songs/Zastanowmy sie co Wielki Bog nam dal.sbd)
+(./Songs/Jest jedno cialo jest jeden Pan.sbd) (./Songs/Bogiem moim jest.sbd
+[39]) (./Songs/Tak jak jelen.sbd) (./Songs/Glowa ramiona nogi stopy.sbd
+[40]) (./Songs/Milosc Jezusa jest ponad wszystko.sbd)
+(./Songs/Albowiem tak Bog swiat umilowal.sbd [41])
+(./Songs/Laska jestesmy zbawieni.sbd) (./Songs/Nie ma innego jak Jezus.sbd
+[42]) (./Songs/Przed tronem Twym stoimy.sbd)
+(./Songs/Twe swiatlo jest na drodze mej.sbd [43])
+(./Songs/Panie moj przychodze dzis.sbd) (./Songs/Z glebokosci morz.sbd [44]
+[45]) (./Songs/Do Ciebie Panie wola dusza moja.sbd)
+(./Songs/Glodny ide znow do Ciebie.sbd) (./Songs/Pan laske slabym dal.sbd
+[46]) (./Songs/Tredowaty glosno wolal.sbd [47])
+(./Songs/Wszystkie narody klaskajcie.sbd [48])
+(./Songs/Tylko Tys jest godzien chwaly.sbd)
+(./Songs/Jezus Bogiem naszym jest.sbd [49]) (./Songs/Panie my Twoje dzieci.sbd)
+(./Songs/Pan Bog jest moim Pasterzem.sbd [50]) (./Songs/Dziekuj mu.sbd [51]
+[52]) (./Songs/Nie ma za trudnych spraw.sbd)
+(./Songs/Kiedy milknie juz muzyki dzwiek.sbd [53])
+(./Songs/Duszo ma Pana chwal.sbd [54] [55])
+(./Songs/Pamietaj ze to ze zyjesz.sbd [56]) (./Songs/Wode zamieniles w wino.sbd
+[57]) (./Songs/Bogobojny krol.sbd [58])
+(./Songs/Jakze cenna jest laska Twoja .sbd)
+(./Songs/Wsrod tylu trosk miec marzen czas.sbd) (./Songs/Swiete imie Jezus.sbd
+[59]) (./Songs/Czcijmy Jezusa.sbd) (./Songs/Jezus daje nam zbawienie.sbd
+[60]) (./Songs/Dales mi zycie dales radosc mi.sbd [61])
+(./Songs/Kazdy dzien upewnia mnie.sbd [62]) (./Songs/Jestem tego pewien.sbd)
+(./Songs/Niepojeta laska.sbd [63]) (./Songs/Blogoslaw duszo moja Pana.sbd
+[64] [65]) (./Songs/By zbawic tych co w grzechu.sbd)
+(./Songs/Jak co dzien rano.sbd) (./Songs/Po wielkim polowie.sbd [66])
+(./Songs/Twa obecnosc jest szczesciem mym.sbd)
+(./Songs/Wspanialym Panem Tys.sbd [67]) (./Songs/Radosc wypelnia dusze ma.sbd)
+(./Songs/Abba Ojcze naleze do Ciebie.sbd [68])
+(./Songs/Albowiem nie wstydze sie.sbd) (./Songs/Chrystus Pan Bozy Syn.sbd
+[69]) (./Songs/Blogoslawie Cie.sbd [70])
+(./Songs/Obrazem jest Boga niewidzialnego.sbd [71]) (./Songs/El Szaddaj.sbd
+[72]) (./Songs/Badz wywyzszony.sbd [73]) (./Songs/Milosc cierpliwa jest.sbd
+[74]) (./Songs/Najwiekszym skarbem jaki w zyciu mam.sbd)
+(./Songs/Idzie Jezus.sbd [75]) (./Songs/To on nasz Pan i Krol.sbd [76])
+(./Songs/Chodzcie jesc.sbd [77]) (./Songs/Nasz Pan to wspanialy wielki Bog.sbd)
+(./Songs/Stworz serce czyste we mnie.sbd)
+(./Songs/Baranka chwalmy On nasz Bog.sbd [78])
+(./Songs/Hosanna na niebiosach.sbd)) [79]
+\openout3 = `cbtitle.sxd'.
+
+ (./chordbook.sxc)
+\openout3 = `cbauth.sxd'.
+
+ (./chordbook.sxc)
+\openout3 = `cbscrip.sxd'.
+
+
+(./chordbook.sxc)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 62.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 62.
+ (./chordbook.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 62.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 62.
+Package rerunfilecheck Info: File `chordbook.out' has not changed.
+(rerunfilecheck)             Checksum: 2EDFA1561FE3DB40922466D851228164;9394.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 62.
+ ) 
+Here is how much of TeX's memory you used:
+ 6829 strings out of 481239
+ 106639 string characters out of 5920377
+ 394709 words of memory out of 5000000
+ 21424 multiletter control sequences out of 15000+600000
+ 545819 words of font info for 49 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,6n,31p,224b,804s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-supe
+r/sfbx0500.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0500.pfb></usr
+/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/t
+ype1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super
+/sfsi1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1440.pfb></usr/
+share/texmf/fonts/type1/public/cm-super/sfsl1000.pfb></usr/share/texmf/fonts/ty
+pe1/public/cm-super/sfsx1728.pfb>
+Output written on chordbook.pdf (79 pages, 318168 bytes).
+PDF statistics:
+ 1196 PDF objects out of 1200 (max. 8388607)
+ 968 compressed objects within 10 object streams
+ 206 named destinations out of 1000 (max. 500000)
+ 1009 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,494 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.3.31)  8 APR 2022 01:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**slidebook.tex
+(./slidebook.tex
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen135
+\Hy@linkcounter=\count175
+\Hy@pagecounter=\count176
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count177
+\pdfmajorversion=\count178
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count179
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen136
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count180
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count181
+\c@Item=\count182
+\c@Hfootnote=\count183
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count184
+\c@bookmark@seq@number=\count185
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)) (./songs.sty
+Package: songs 2017/06/05 v3.0 Songs package
+\SB@dimen=\dimen139
+\SB@dimenii=\dimen140
+\SB@dimeniii=\dimen141
+\SB@dimeniv=\dimen142
+\SB@box=\box45
+\SB@boxii=\box46
+\SB@boxiii=\box47
+\SB@toks=\toks15
+\SB@cnt=\count186
+\SB@cntii=\count187
+\SB@skip=\skip50
+\SB@envbox=\box48
+\c@songnum=\count188
+\c@versenum=\count189
+\versesep=\skip51
+\afterpreludeskip=\skip52
+\beforepostludeskip=\skip53
+\baselineadj=\skip54
+\idxheadwidth=\skip55
+\songnumwidth=\skip56
+LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
+39.
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1cmss.fd
+File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+\versenumwidth=\skip57
+\cbarwidth=\skip58
+\sbarheight=\skip59
+\vvpenalty=\count190
+\ccpenalty=\count191
+\vcpenalty=\count192
+\cvpenalty=\count193
+\brkpenalty=\count194
+\spenalty=\count195
+\minfrets=\count196
+\SB@colwidth=\dimen143
+\SB@songbox=\box49
+\SB@numcols=\count197
+\SB@colnum=\count198
+\SB@colbox=\box50
+\SB@pgbox=\box51
+\SB@mrkbox=\box52
+\SB@groupcnt=\count199
+\SB@titlelist=\toks16
+\SB@titletail=\toks17
+\SB@parindent=\dimen144
+\SB@chorusbox=\box53
+\SB@cmarkclass=\marks1
+\SB@nocmarkclass=\marks2
+\SB@grouplvl=\count266
+\SB@transposefactor=\count267
+\SB@lyric=\toks18
+\SB@numhyps=\count268
+\SB@lyricnohyp=\toks19
+\SB@lyricbox=\box54
+\SB@chordbox=\box55
+\SB@cr@=\toks20
+\SB@ctail=\toks21
+\SB@fretwidth=\skip60
+\SB@tabindent=\dimen145
+\c@SB@songsnum=\count269
+\SB@songwrites=\box56
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3706.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3706.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3706.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3706.
+)
+\GPT@outputbox=\box57
+Package color Info: Redefining color SongbookShade on input line 64.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip61
+\f@nch@O@elh=\skip62
+\f@nch@O@erh=\skip63
+\f@nch@O@olh=\skip64
+\f@nch@O@orh=\skip65
+\f@nch@O@elf=\skip66
+\f@nch@O@erf=\skip67
+\f@nch@O@olf=\skip68
+\f@nch@O@orf=\skip69
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/extramarks.sty
+Package: extramarks 2019/01/31 v3.10 Extra marks for LaTeX
+\@temptokenb=\toks22
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count270
+\l__pdf_internal_box=\box58
+)
+(./slidebook.aux)
+\openout1 = `slidebook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
+LaTeX Font Info:    ... okay on input line 88.
+\AtBeginShipoutBox=\box59
+Package hyperref Info: Link coloring OFF on input line 88.
+ (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count271
+)
+LaTeX Info: Redefining \ref on input line 88.
+LaTeX Info: Redefining \pageref on input line 88.
+LaTeX Info: Redefining \nameref on input line 88.
+
+(./slidebook.out) (./slidebook.out)
+\@outlinefile=\write3
+\openout3 = `slidebook.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count272
+\scratchdimen=\dimen146
+\scratchbox=\box60
+\nofMPsegments=\count273
+\nofMParguments=\count274
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count275
+\MPscratchDim=\dimen147
+\MPnumerator=\count276
+\makeMPintoPDFobject=\count277
+\everyMPtoPDFconversion=\toks24
+)
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 88
+.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+) (./songs.sbd
+(./Songs/Panie chwale imie Twe.sbd [1{/var/lib/texmf/fonts/map/pdftex/updmap/pd
+ftex.map}
+
+]) (./Songs/Nie boj sie.sbd [2] [3]) (./Songs/Jestes krolem.sbd
+[4] [5]) (./Songs/Prawda jedyna.sbd [6] [7] [8]) (./Songs/Pan wywyzszony.sbd
+[9] [10]) (./Songs/W kazdym dniu.sbd [11] [12])
+(./Songs/Chwale Ciebie Panie.sbd
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/n' in size <28> not available
+(Font)              size <24.88> substituted on input line 4.
+
+[13] [14]) (./Songs/On jest moim zyciem.sbd [15] [16])
+(./Songs/Dziekowac Ci Panie chce.sbd [17] [18] [19])
+(./Songs/Wszystko Panie Ciebie chwali.sbd [20] [21])
+(./Songs/Moj Jezu moj Zbawco.sbd [22] [23]) (./Songs/Jezus zmartwychwstal.sbd
+[24] [25] [26]) (./Songs/Twe drogi sa najlepsze.sbd [27] [28])
+(./Songs/Ty jestes skala zbawienia mego.sbd [29] [30])
+(./Songs/Oczysc serce me.sbd [31] [32] [33])
+(./Songs/Otworz oczy duszy mej Panie.sbd
+
+LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <28> not available
+(Font)              size <24.88> substituted on input line 15.
+
+[34] [35] [36]) (./Songs/Chrystus jest zyciem mym.sbd [37] [38])
+(./Songs/W Chrystusie mym.sbd [39]
+\SB@cr@verse=\toks25
+\SB@cr@chorus=\toks26
+ [40] [41] [42] [43])
+(./Songs/Tobie chor aniolow.sbd [44])
+(./Songs/Jezu Tys wszystkim dla mnie jest.sbd [45] [46])
+(./Songs/Jestesmy Panie kaplanstwem Twym.sbd [47] [48] [49])
+(./Songs/Nie szczyce sie.sbd [50] [51]) (./Songs/Ty jestes Bogiem mym.sbd
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/sl' undefined
+(Font)              using `OMS/cmsy/b/n' instead on input line 11.
+
+[52] [53]) (./Songs/Bylem kiedys sam.sbd [54] [55] [56] [57])
+(./Songs/Chodz to czas by wielbic Pana.sbd [58] [59])
+(./Songs/Jezus najwyzszej godzien chwaly.sbd [60] [61] [62])
+(./Songs/Bog dal mi zycie nowe.sbd [63] [64]) (./Songs/Chce mocy.sbd [65]
+[66] [67]) (./Songs/W cieniu Twoich rak.sbd [68] [69] [70])
+(./Songs/Chcemy Ciebie wielbic.sbd [71] [72]) (./Songs/Panie nasz i Stworco.sbd
+[73] [74] [75]) (./Songs/Boze Ojcze nie wiem.sbd [76] [77])
+(./Songs/Hosanna.sbd [78] [79] [80]) (./Songs/Zaspiewac chce milosci piesn.sbd
+[81] [82] [83]) (./Songs/Przyjaciela mam.sbd [84] [85])
+(./Songs/Glosno do Pana wolam.sbd [86] [87] [88])
+(./Songs/Ziemia ktora nam dajesz.sbd [89] [90] [91] [92])
+(./Songs/Pan mnie strzeze.sbd [93] [94])
+(./Songs/My ktorzy wszystko liczymy.sbd
+
+LaTeX Font Warning: Font shape `OMS/cmsy/b/sl' in size <28> not available
+(Font)              size <24.88> substituted on input line 10.
+
+[95] [96] [97] [98] [99]) (./Songs/Tak tak tak o Panie moj.sbd [100] [101]
+[102] [103]) (./Songs/Tys jak skala Tys jak wzgorze.sbd [104] [105])
+(./Songs/Mow do mnie Panie.sbd [106] [107])
+(./Songs/Niechaj zstapi Duch Twoj.sbd [108] [109])
+(./Songs/Tys jak powietrza wiew.sbd [110] [111] [112])
+(./Songs/Tam na krzyzu.sbd [113] [114] [115])
+(./Songs/Pamietamy jak mowiles nam.sbd [116] [117] [118])
+(./Songs/Przed Tronem laski staje.sbd [119] [120] [121])
+(./Songs/Zabierz Panie mnie do miejsca.sbd [122] [123] [124])
+(./Songs/Godzien o godzien jest Bog.sbd [125] [126] [127])
+(./Songs/Uwielbiam Imie Twoje Panie.sbd [128] [129])
+(./Songs/Swiatlo niesc tam gdzie ciemnosc trwa.sbd [130] [131])
+(./Songs/Pan jest pasterzem moim.sbd [132]) (./Songs/Jesli na piasku.sbd
+[133] [134] [135] [136]) (./Songs/Bo nikt nie ma z nas.sbd [137] [138] [139])
+(./Songs/Ojcze swiatla.sbd [140] [141]) (./Songs/Milosc da.sbd [142] [143])
+(./Songs/Smialym badz meznym badz.sbd [144] [145])
+(./Songs/Chwalmy go Pan w majestacie Swym.sbd [146] [147])
+(./Songs/Pan dla nas ma plan.sbd [148])
+(./Songs/Przyszedl bezbronny na swiat.sbd [149] [150])
+(./Songs/Nie mam nic co by mozna.sbd [151] [152])
+(./Songs/Panie pragne kochac Cie.sbd [153] [154])
+(./Songs/Nie ma problemu by On.sbd [155] [156])
+(./Songs/Gdy wokolo straszna burza.sbd [157] [158])
+(./Songs/Zastanowmy sie co Wielki Bog nam dal.sbd [159] [160])
+(./Songs/Jest jedno cialo jest jeden Pan.sbd [161] [162])
+(./Songs/Bogiem moim jest.sbd [163] [164]) (./Songs/Tak jak jelen.sbd [165]
+[166]) (./Songs/Glowa ramiona nogi stopy.sbd [167] [168] [169] [170])
+(./Songs/Milosc Jezusa jest ponad wszystko.sbd [171] [172])
+(./Songs/Albowiem tak Bog swiat umilowal.sbd [173] [174])
+(./Songs/Laska jestesmy zbawieni.sbd [175] [176] [177])
+(./Songs/Nie ma innego jak Jezus.sbd [178] [179])
+(./Songs/Przed tronem Twym stoimy.sbd [180] [181])
+(./Songs/Twe swiatlo jest na drodze mej.sbd [182])
+(./Songs/Panie moj przychodze dzis.sbd [183]) (./Songs/Z glebokosci morz.sbd
+[184] [185] [186]) (./Songs/Do Ciebie Panie wola dusza moja.sbd [187])
+(./Songs/Glodny ide znow do Ciebie.sbd [188] [189] [190])
+(./Songs/Pan laske slabym dal.sbd [191] [192] [193])
+(./Songs/Tredowaty glosno wolal.sbd [194] [195] [196])
+(./Songs/Wszystkie narody klaskajcie.sbd [197] [198] [199])
+(./Songs/Tylko Tys jest godzien chwaly.sbd [200] [201])
+(./Songs/Jezus Bogiem naszym jest.sbd [202] [203])
+(./Songs/Panie my Twoje dzieci.sbd [204] [205])
+(./Songs/Pan Bog jest moim Pasterzem.sbd [206] [207] [208] [209])
+(./Songs/Dziekuj mu.sbd [210] [211] [212] [213])
+(./Songs/Nie ma za trudnych spraw.sbd [214] [215] [216])
+(./Songs/Kiedy milknie juz muzyki dzwiek.sbd [217] [218] [219])
+(./Songs/Duszo ma Pana chwal.sbd [220] [221] [222])
+(./Songs/Pamietaj ze to ze zyjesz.sbd [223] [224])
+(./Songs/Wode zamieniles w wino.sbd [225] [226]) (./Songs/Bogobojny krol.sbd
+[227] [228]) (./Songs/Jakze cenna jest laska Twoja .sbd [229])
+(./Songs/Wsrod tylu trosk miec marzen czas.sbd [230] [231] [232] [233] [234])
+(./Songs/Swiete imie Jezus.sbd [235] [236]) (./Songs/Czcijmy Jezusa.sbd
+[237] [238]) (./Songs/Jezus daje nam zbawienie.sbd [239] [240] [241])
+(./Songs/Dales mi zycie dales radosc mi.sbd [242] [243] [244])
+(./Songs/Kazdy dzien upewnia mnie.sbd [245] [246] [247])
+(./Songs/Jestem tego pewien.sbd [248] [249]) (./Songs/Niepojeta laska.sbd
+[250] [251] [252]) (./Songs/Blogoslaw duszo moja Pana.sbd [253] [254] [255]
+[256]) (./Songs/By zbawic tych co w grzechu.sbd [257])
+(./Songs/Jak co dzien rano.sbd [258] [259]) (./Songs/Po wielkim polowie.sbd
+[260]) (./Songs/Twa obecnosc jest szczesciem mym.sbd [261])
+(./Songs/Wspanialym Panem Tys.sbd [262] [263])
+(./Songs/Radosc wypelnia dusze ma.sbd [264])
+(./Songs/Abba Ojcze naleze do Ciebie.sbd [265] [266] [267])
+(./Songs/Albowiem nie wstydze sie.sbd [268] [269])
+(./Songs/Chrystus Pan Bozy Syn.sbd [270] [271]) (./Songs/Blogoslawie Cie.sbd
+[272] [273] [274] [275] [276]) (./Songs/Obrazem jest Boga niewidzialnego.sbd
+[277] [278]) (./Songs/El Szaddaj.sbd [279] [280] [281])
+(./Songs/Badz wywyzszony.sbd [282] [283] [284] [285])
+(./Songs/Milosc cierpliwa jest.sbd [286] [287])
+(./Songs/Najwiekszym skarbem jaki w zyciu mam.sbd [288] [289])
+(./Songs/Idzie Jezus.sbd [290]) (./Songs/To on nasz Pan i Krol.sbd [291]
+[292] [293] [294]) (./Songs/Chodzcie jesc.sbd [295] [296])
+(./Songs/Nasz Pan to wspanialy wielki Bog.sbd [297])
+(./Songs/Stworz serce czyste we mnie.sbd [298] [299])
+(./Songs/Baranka chwalmy On nasz Bog.sbd [300] [301])
+(./Songs/Hosanna na niebiosach.sbd [302] [303] [304] [305])) [306]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
+
+(./slidebook.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
+Package rerunfilecheck Info: File `slidebook.out' has not changed.
+(rerunfilecheck)             Checksum: 9CB1AC666757B5EB83F289FC84EBB327;8221.
+
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 3.12pt have occurred.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 94.
+ ) 
+Here is how much of TeX's memory you used:
+ 7239 strings out of 481239
+ 110774 string characters out of 5920377
+ 367971 words of memory out of 5000000
+ 21608 multiletter control sequences out of 15000+600000
+ 551551 words of font info for 54 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 34i,11n,45p,215b,662s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texliv
+e/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmss17.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfb
+x0900.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0500.pfb></usr/shar
+e/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/
+public/cm-super/sfss2488.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/hel
+vetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvbo8
+a.pfb>
+Output written on slidebook.pdf (306 pages, 290562 bytes).
+PDF statistics:
+ 1931 PDF objects out of 2073 (max. 8388607)
+ 1599 compressed objects within 16 object streams
+ 432 named destinations out of 1000 (max. 500000)
+ 1001 words of extra memory for PDF output out of 10000 (max. 10000000)
+
