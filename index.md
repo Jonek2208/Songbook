@@ -1,6 +1,6 @@
 # Pieśni
 
-- Panie chwalę imię Twe (Lord I Lift Your Name On High)
+- [Panie chwalę imię Twe (Lord I Lift Your Name On High)](https://jonek2208.github.io/Songbook/Songs/Panie%20chwale%20imie%20Twe.html)
 - Nie bój się (Fear Not)
 - Jesteś królem
 - Prawda jedyna
