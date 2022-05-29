@@ -11,27 +11,130 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Pieśni
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jonek2208/spiewnik/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Panie chwalę imię Twe (Lord I Lift Your Name On High)
+- Nie bój się (Fear Not)
+- Jesteś królem
+- Prawda jedyna
+- Pan wywyższony
+- W każdym dniu
+- Chwalę Ciebie Panie
+- On jest moim życiem
+- Dziękować Ci Panie chcę (Give Thanks With A Grateful Heart)
+- Wszystko Panie Ciebie chwali
+- Mój Jezu, mój Zbawco (Shout to the Lord)
+- Jezus zmartwychwstał
+- Twe drogi sa najlepsze
+- Ty jestes skala zbawienia mego
+- Oczysc serce me
+- Otworz oczy duszy mej Panie
+- Chrystus jest zyciem mym
+- W Chrystusie mym
+- Tobie chor aniolow
+- Jezu Tys wszystkim dla mnie jest
+- Jestesmy Panie kaplanstwem Twym
+- Nie szczyce sie
+- Ty jestes Bogiem mym
+- Bylem kiedys sam
+- Chodz to czas by wielbic Pana
+- Jezus najwyzszej godzien chwaly
+- Bog dal mi zycie nowe
+- Chce mocy
+- W cieniu Twoich rak
+- Chcemy Ciebie wielbic
+- Panie nasz i Stworco
+- Boze Ojcze nie wiem
+- Hosanna
+- Zaspiewac chce milosci piesn
+- Przyjaciela mam
+- Glosno do Pana wolam
+- Ziemia ktora nam dajesz
+- Pan mnie strzeze
+- My ktorzy wszystko liczymy
+- Tak tak tak o Panie moj
+- Tys jak skala Tys jak wzgorze
+- Mow do mnie Panie
+- Niechaj zstapi Duch Twoj
+- Tys jak powietrza wiew
+- Tam na krzyzu
+- Pamietamy jak mowiles nam
+- Przed Tronem laski staje
+- Zabierz Panie mnie do miejsca
+- Godzien o godzien jest Bog
+- Uwielbiam Imie Twoje Panie
+- Swiatlo niesc tam gdzie ciemnosc trwa
+- Pan jest pasterzem moim
+- Jesli na piasku
+- Bo nikt nie ma z nas
+- Ojcze swiatla
+- Milosc da
+- Smialym badz meznym badz
+- Chwalmy go Pan w majestacie Swym
+- Pan dla nas ma plan
+- Przyszedl bezbronny na swiat
+- Nie mam nic co by mozna
+- Panie pragne kochac Cie
+- Nie ma problemu by On
+- Gdy wokolo straszna burza
+- Zastanowmy sie co Wielki Bog nam dal
+- Jest jedno cialo jest jeden Pan
+- Bogiem moim jest
+- Tak jak jelen
+- Glowa ramiona nogi stopy
+- Milosc Jezusa jest ponad wszystko
+- Albowiem tak Bog swiat umilowal
+- Laska jestesmy zbawieni
+- Nie ma innego jak Jezus
+- Przed tronem Twym stoimy
+- Twe swiatlo jest na drodze mej
+- Panie moj przychodze dzis
+- Z glebokosci morz
+- Do Ciebie Panie wola dusza moja
+- Glodny ide znow do Ciebie
+- Pan laske slabym dal
+- Tredowaty glosno wolal
+- Wszystkie narody klaskajcie
+- Tylko Tys jest godzien chwaly
+- Jezus Bogiem naszym jest
+- Panie my Twoje dzieci
+- Pan Bog jest moim Pasterzem
+- Dziekuj mu
+- Nie ma za trudnych spraw
+- Kiedy milknie juz muzyki dzwiek
+- Duszo ma Pana chwal
+- Pamietaj ze to ze zyjesz
+- Wode zamieniles w wino
+- Bogobojny krol
+- Jakze cenna jest laska Twoja 
+- Wsrod tylu trosk miec marzen czas
+- Swiete imie Jezus
+- Czcijmy Jezusa
+- Jezus daje nam zbawienie
+- Dales mi zycie dales radosc mi
+- Kazdy dzien upewnia mnie
+- Jestem tego pewien
+- Niepojeta laska
+- Blogoslaw duszo moja Pana
+- By zbawic tych co w grzechu
+- Jak co dzien rano
+- Po wielkim polowie
+- Twa obecnosc jest szczesciem mym
+- Wspanialym Panem Tys
+- Radosc wypelnia dusze ma
+- Abba Ojcze naleze do Ciebie
+- Albowiem nie wstydze sie
+- Chrystus Pan Bozy Syn
+- Blogoslawie Cie
+- Obrazem jest Boga niewidzialnego
+- El Szaddaj
+- Badz wywyzszony
+- Milosc cierpliwa jest
+- Najwiekszym skarbem jaki w zyciu mam
+- Idzie Jezus
+- To on nasz Pan i Krol
+- Chodzcie jesc
+- Nasz Pan to wspanialy wielki Bog
+- Stworz serce czyste we mnie
+- Baranka chwalmy On nasz Bog
+- Hosanna na niebiosach
